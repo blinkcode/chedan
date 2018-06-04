@@ -1,0 +1,10 @@
+#编辑器配置文件
+.idea
+.vscode
+#依赖
+node_modules/
+#输出目录
+dist/
+#日志
+*.log
+
